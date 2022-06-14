@@ -1,0 +1,8 @@
+ const filmsData = [
+  {id:1,name:'SpiderMan',image:'https://live.staticflickr.com/65535/52118119083_99ae478217_h.jpg',popularity:10,isFavorite:false},
+  {id:2,name:'Aquaman',image:'https://sm.ign.com/t/ign_br/screenshot/default/aquaman-hero-image-0_ey5b.h720.jpg',popularity:8,isFavorite:false},
+  {id:3,name:'Freira',image:'https://i1.wp.com/www.lenteseoculos.com.br/wp-content/uploads/2018/09/a-freira.jpg?fit=1000%2C667&ssl=1',popularity:6,isFavorite:false},
+  {id:4,name:'Bob Esponja',image:'https://play-lh.googleusercontent.com/ZqSUbqjoUmb-2MpPNkzvh9O0jBiOffhdocrZRwZ2Jliwy3TJ8DawPvjZx_AonSiw7e5p',popularity:8,isFavorite:false}
+]
+
+export default filmsData
