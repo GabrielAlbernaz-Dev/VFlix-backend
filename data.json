@@ -1,6 +1,6 @@
 [
-    {"id":1,"name":"Spiderman","image":"https://live.staticflickr.com/65535/52118119083_99ae478217_h.jpg","popularity":10,"isFavorite":false},
-    {"id":2,"name":"Aquaman","image":"https://sm.ign.com/t/ign_br/screenshot/default/aquaman-hero-image-0_ey5b.h720.jpg","popularity":9,"isFavorite":false},
-    {"id":3,"name":"Freira","image":"https://i1.wp.com/www.lenteseoculos.com.br/wp-content/uploads/2018/09/a-freira.jpg?fit=1000%2C667&ssl=1","popularity":5,"isFavorite":false},
-    {"id":4,"name":"Bob Esponja","image":"https://play-lh.googleusercontent.com/ZqSUbqjoUmb-2MpPNkzvh9O0jBiOffhdocrZRwZ2Jliwy3TJ8DawPvjZx_AonSiw7e5p","popularity":9,"isFavorite":false}
+    {"id":1,"name":"description":"Spider-Man (no Brasil e em Portugal, Homem-Aranha) é um filme norte-americano de 2002, baseado no personagem da Marvel Comics de mesmo nome.","Spiderman","image":"https://live.staticflickr.com/65535/52118119083_99ae478217_h.jpg","popularity":10,"isFavorite":false},
+    {"id":2,"name":,"description":"Aquaman é um filme de super-herói estadunidense de 2018, baseado no personagem homônimo da DC Comics, distribuído pela Warner Bros.","Aquaman","image":"https://sm.ign.com/t/ign_br/screenshot/default/aquaman-hero-image-0_ey5b.h720.jpg","popularity":9,"isFavorite":false},
+    {"id":3,"name":"Freira","description":"The Nun (no Brasil, A Freira; em Portugal, The Nun - A Freira Maldita) é um filme de terror sobrenatural gótico estadunidense de 2018, dirigido por Corin","image":"https://i1.wp.com/www.lenteseoculos.com.br/wp-content/uploads/2018/09/a-freira.jpg?fit=1000%2C667&ssl=1","popularity":5,"isFavorite":false},
+    {"id":4,"name":"description":"Um filme de Stephen Hillenburg. Após a coroa do Rei Netuno ser roubada, Bob Esponja e seu melhor amigo Patrick partem em uma viagem pela Fenda do Bikini","Bob Esponja","image":"https://play-lh.googleusercontent.com/ZqSUbqjoUmb-2MpPNkzvh9O0jBiOffhdocrZRwZ2Jliwy3TJ8DawPvjZx_AonSiw7e5p","popularity":9,"isFavorite":false}
 ]
