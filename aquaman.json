@@ -2,6 +2,7 @@
    {
       "id": 2,
       "name": "Aquaman",
+      "end":"aquaman",
       "categories":"Ação,Ficção Científica",
       "description": "Aquaman é um filme de super-herói estadunidense de 2018, baseado no personagem homônimo da DC Comics, distribuído pela Warner Bros.",
       "data":"13/12/2018",
