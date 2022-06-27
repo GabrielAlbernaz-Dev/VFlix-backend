@@ -1,0 +1,1 @@
+    {"id":1,"name":"Spiderman","description":"Spider-Man (no Brasil e em Portugal, Homem-Aranha) é um filme norte-americano de 2002, baseado no personagem da Marvel Comics de mesmo nome.","image":"https://live.staticflickr.com/65535/52118119083_99ae478217_h.jpg","popularity":10,"isFavorite":false},
