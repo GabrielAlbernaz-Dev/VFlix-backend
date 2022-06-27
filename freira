@@ -1,0 +1,17 @@
+[
+    {
+        "id": 3,
+        "name": "Freira",
+        "categories":"Terror,Suspense",
+        "description": "The Nun (no Brasil, A Freira; em Portugal, The Nun - A Freira Maldita) é um filme de terror sobrenatural gótico estadunidense de 2018, dirigido por Corin",
+        "data":"06/09/2018",
+        "image": "https://i1.wp.com/www.lenteseoculos.com.br/wp-content/uploads/2018/09/a-freira.jpg?fit=1000%2C667&ssl=1",
+        "group-image":[
+            "https://m.media-amazon.com/images/M/MV5BNzZlN2IyMjMtNTMzZi00NGY2LTkxN2QtNzJhZDAxMjRmY2Y3XkEyXkFqcGdeQXVyNDMxNTQ4ODY@._V1_UY1200_CR586,0,630,1200_AL_.jpg",
+            "https://trilhadomedo.com/wp-content/uploads/2019/03/Bonnie-Aarons-A-Freira-1-1.jpg",
+            "https://m.media-amazon.com/images/M/MV5BMjIzNDMwMzI3OV5BMl5BanBnXkFtZTgwNTk2NzMyMTE@._V1_.jpg"
+        ],
+        "popularity": 5,
+        "isFavorite": false
+    }
+]
