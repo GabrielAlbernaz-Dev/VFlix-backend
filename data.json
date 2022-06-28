@@ -13,8 +13,7 @@
             "https://static.wikia.nocookie.net/disney/images/f/f1/Willem_Dafoe.jpg/revision/latest?cb=20200121212312&path-prefix=pt-br"
         ],
         "popularity": 10,
-        "rate":"97%",
-        "isFavorite": false
+        "rate":"97%"
     },
     {
         "id": 2,
@@ -30,8 +29,7 @@
             "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Patrick_Wilson_MFF_2016.jpg/640px-Patrick_Wilson_MFF_2016.jpg"
         ],
         "popularity": 9,
-        "rate":"92%",
-        "isFavorite": false
+        "rate":"92%"
     },
     {
         "id": 3,
@@ -47,8 +45,7 @@
             "https://m.media-amazon.com/images/M/MV5BMjIzNDMwMzI3OV5BMl5BanBnXkFtZTgwNTk2NzMyMTE@._V1_.jpg"
         ],
         "popularity": 5,
-        "rate":"71%",
-        "isFavorite": false
+        "rate":"71%"
     },
     {
         "id": 4,
@@ -64,7 +61,6 @@
             "https://deadline.com/wp-content/uploads/2021/08/Clancy-Brown.jpg?w=681&h=383&crop=1"
         ],
         "popularity": 9,
-        "rate":"90%",
-        "isFavorite": false
+        "rate":"90%"
     }
 ]
